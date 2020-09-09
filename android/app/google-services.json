@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1028611454582",
+    "firebase_url": "https://fir-flutterapp-1473b.firebaseio.com",
+    "project_id": "fir-flutterapp-1473b",
+    "storage_bucket": "fir-flutterapp-1473b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028611454582:android:a2c281fb1403a68d1f1157",
+        "android_client_info": {
+          "package_name": "com.himanshu.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028611454582-jmrm5mncvve8gccqc5hpasm7f484ug80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7rEHO-yfwLzXa_b49JpyOEk8ecIHyZBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028611454582-jmrm5mncvve8gccqc5hpasm7f484ug80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
